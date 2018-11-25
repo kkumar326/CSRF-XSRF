@@ -33,11 +33,11 @@ class SessionHandler
     /**
      * Checks if SESSION value is set
      *
-     * @param  string $session_variable Session value to be verified
+     * @param  mixed $session_variable Session value to be verified
      * @return bool
      * @throws Issues\SessionValueNotSet
      */
-    private function isSessionValueSet(string $session_variable): bool
+    private function isSessionValueSet($session_variable): bool
     {
         if (!isset($session_variable)) {
             throw new Issues\SessionValueNotSet(

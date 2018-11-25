@@ -178,7 +178,7 @@ class CSRF
         // You can override this method to include more parameters as per your needs
         // or in case of inconsistent token prefixes or byte length for random_bytes
 
-        $field = '<input type="hidden" id="token" value="' . $this->form_name . ':' .
+        $field = '<input type="hidden" id="token" name="token" value="' . $this->form_name . ':' .
             $this->getTokenValue() . '">';
         return $field;
     }
