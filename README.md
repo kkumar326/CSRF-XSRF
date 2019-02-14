@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="100" src="https://pbs.twimg.com/profile_images/1031801998448807943/0r0eouiN_400x400.jpg">
+  <img height="100" src="https://pbs.twimg.com/profile_images/1081610141538111488/jA44QLOi_400x400.jpg">
 </p>
 
 ___
@@ -59,7 +59,7 @@ ___
 
 <b>MIT License</b>
 
-Copyright (c) 2018 Kshitij Kumar
+Copyright (c) 2018 <a href="https://sciencehook.com/">ScienceHook</a>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
